@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.6.0 - 2026-07-03
 
 - Added support for new attribute functions found in Lustre v5.
 
